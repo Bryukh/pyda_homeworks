@@ -4,3 +4,6 @@ stat_case_study/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 .ipynb_checkpoints/
 
 .DS_Store
+
+work_with_files/*.csv
+work_with_files/*.txt
